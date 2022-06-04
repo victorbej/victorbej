@@ -6,7 +6,7 @@
 - Работаю над своим [pet-проектом](https://github.com/victorbej/GoBank)
 - В поисках стажировки на Go-разработчика
 
-**Мои навыки
+##Мои навыки
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
