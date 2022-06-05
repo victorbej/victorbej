@@ -3,7 +3,7 @@
 <h3 align="center">Я начинающий Go разработчик</h3>
 
 - Сейчас я активно изучаю Go
-- Работаю над своим [pet-проектом](https://github.com/victorbej/GoBank)
+- Работаю над своим [pet-проектом](https://github.com/victorbej/gobank-bot)
 - В поисках стажировки Go-разработчиком
 
 
